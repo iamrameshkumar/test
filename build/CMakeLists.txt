@@ -186,6 +186,7 @@ set(BOOST_UTF_TESTS_IND_FILES
     utils-ts
     test-organization-ts
     smoke-ts
+    benchmark-ts
   )
 
 
