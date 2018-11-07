@@ -23,6 +23,12 @@ Boost.Test releases:
 * [link ref_CHANGE_LOG_3_1 Boost.Test v3.1 / boost 1.60]
 * [link ref_CHANGE_LOG_3_0 Boost.Test v3 / boost 1.59]
 
+[#ref_CHANGE_LOG_3_XXX][h4 Boost.Test v3.XX / boost 1.XX]
+
+[h5 Breaking changes]
+
+* Removing long time deprecated headers
+
 [#ref_CHANGE_LOG_3_12][h4 Boost.Test v3.12 / boost 1.72]
 
 [h5 New features]
